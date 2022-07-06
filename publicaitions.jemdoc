@@ -1,0 +1,198 @@
+# jemdoc: menu{MENU}{publicatoins.html}, nofooter 
+= Publications
+(*: corresponding authorship.)
+
+~~~
+[https://scholar.google.com/citations?hl=zh-CN&user=zhx53aAAAAAJ My Google Scholar profile]
+~~~
+
+
+== Accepted Journal Papers
+
+. Yuanzheng Li, Shangyang He, *Yang Li**, Leijiao Ge, Suhua Lou, and Zhigang Zeng. "Probabilistic Charging Power Forecast of EVCS: Reinforcement Learning Assisted Deep Learning Approach," /IEEE Transactions on Intelligent Vehicles/, to be published.
+. *Yang Li**, Bo Feng, Bin Wang, and Shuchao Sun. "Joint planning of distributed generations and energy storage in active distribution networks: A Bi-Level programming approach," /Energy/, to be published.
+. *Yang Li**, Bin Wang, Zhen Yang, Jiazheng Li, and Chen Chen. "Hierarchical stochastic scheduling of multi-community integrated energy systems in uncertain environments via Stackelberg game," /Applied Energy/, to be published.
+. *Yang Li**, Bin Wang, Zhen Yang, Jiazheng Li, and Guoqing Li. "Optimal scheduling of integrated demand responseenabled community-integrated energy systems in uncertain environments," /IEEE Transactions on Industry Applications/, to be published.
+. *Yang Li**, Meng Zhang. "A Deep-Learning Intelligent System Incorporating Data Augmentation for Short-Term Voltage Stability Assessment of Power Systems," /Applied Energy/, to be published.
+. *Yang Li**, Kang Li, Zhen Yang, Yang Yu, Runnan Xu, and Miaosen Yang. "Stochastic optimal scheduling of demand response-enabled microgrids with renewable generations: An analytical-heuristic approach," /Journal of Cleaner Production/, to be published.
+. Liang Chen, *Yang Li*, Manyun Huang, Xinxin Hui, and Songlin Gu. "Robust Dynamic State Estimator of Integrated Energy Systems based on Natural Gas Partial Differential Equations," /IEEE Transactions on Industry Applications/, to be published.
+. Jia Cui, Jiang Pan, Shunjiang Wang, Martin Onyeka Okoye, Junyou Yang, *Yang Li*, and Hao Wang "Improved normal-boundary intersection algorithm: a method for energy optimization strategy in smart buildings," /Building and Environment/, to be published.
+. Yinfeng Sun, Dapeng Xia, Zichun Gao, Zhenhao Wang, Guoqing Li, Weihua Lu, Xueguang Wu, and *Yang Li*, "Probabilistic load flow calculation of AC/DC hybrid system based on cumulant method," /International Journal of Electrical Power & Energy Systems/, to be published.
+. Zhaoyang Qu, Xiaoyong Bo, Tong Yu, Yaowei Liu, Yunchang Dong, Zhongfeng Kan, Lei Wang, and *Yang Li*, "Active and Passive Hybrid Detection Method for Power CPS False Data Injection Attacks with Improved AKF and GRU-CNN, " /IET Renewable Power Generation/, to be published.
+. Zhaoyang Qu, Yunchang Dong, Sylvère Mugemanyi, Tong Yu, Xiaoyong Bo, Huashun Li, *Yang Li*, François Xavier Rugema, and Christophe Bananeza, "Dynamic Exploitation Gaussian Bare-Bones Bat Algorithm for Optimal Reactive Power Dispatch to Improve the Safety and Stability of Power System," /IET Renewable Power Generation/, to be published.
+. Zhenhao Tang, Shikui Wang, Shengxian Cao, *Yang Li*, and Tao Shen. "Dynamic prediction model for NOX emission of SCR system based on hybrid data-driven algorithms," /Proceedings of the CSEE/, to be published.
+. Zhenhao Tang, Deyu Zhu, and *Yang Li*. "Data driven based dynamic correction prediction model for NOx emission of coal fired boiler,"  /Proceedings of the CSEE/, to be published. 
+. Zhenhao Tang, Shikui Wang, Xiangying Chai, Shengxian Cao, Tinghui Ouyang, and *Yang Li*. "Auto-encoder-extreme learning machine model for boiler NOx emission concentration prediction", /Energy/, to be published.
+. Quande Yuan, Yuzhen Pi, Lei Kou, Fangfang Zhang, *Yang Li*, and Zhenming Zhang. "Multi-source data processing and fusion method for power distribution internet of things based on edge intelligence," /Frontiers in Energy Research/, to be published. 
+. Jiaze Sun, Jiahui Deng, *Yang Li*, and Nan Han. "A BCS-GDE Multi-objective Optimization Algorithm for Combined Cooling, Heating and Power Model with Decision Strategies," /Applied Thermal Engineering/, to be published. 
+
+
+== Published Journal Papers 
+
+*2022*
+
+. *Yang Li**, Jiazheng Li, and Yi Wang. "Privacy-preserving spatiotemporal scenario generation of renewable energies: A federated deep generative learning approach," /IEEE Transactions on Industrial Informatics/, 2022, 18(4):2310-2320.
+. *Yang Li**, Ruinong Wang, and Zhen Yang. "Optimal scheduling of isolated microgrids using automated reinforcement learning-based multi-period forecasting," /IEEE Transactions on Sustainable Energy/, 2022, 13(1):159-169.
+. Cheng Zhong, Huayi Li, Yang Zhou, Yueming Lv, Jikai Chen, and *Yang Li*. "Virtual synchronous generator of PV generation without energy storage for frequency support in autonomous microgrid", /International Journal of Electrical Power & Energy Systems/, 2022, 134:107343.
+
+*2021*
+
+. *Yang Li**, Meng Han, Zhen Yang, and Guoqing Li. "Coordinating flexible demand response and renewable uncertainties for scheduling of community integrated energy systems with an electric vehicle charging station: A bi-level approach," /IEEE Transactions on Sustainable Energy/, 2021, 12(4):2321-2331.
+. *Yang Li**, Chunling Wang, Guoqing Li, Chen Chen. "Optimal scheduling of integrated demand response-enabled integrated energy systems with uncertain renewable generations: A Stackelberg game approach," /Energy Conversion and Management/, 2021, 235:113996. 
+. Xinxin Zhou, Jingru Feng, *Yang Li**. "Non-intrusive load decomposition based on CNN-LSTM hybrid deep learning model," /Energy Reports/, 2021, 7:5762-5771.
+. Fengrui Liu, *Yang Li**, Baitong Li, Jiaxin Li, and Huiyang Xie, Bitcoin transaction strategy construction based on deep reinforcement learning," /Applied Soft Computing/, 2021 113:107952.
+. Meng Zhang, Jiazheng Li, *Yang Li**, Runnan Xu. "Deep learning for short-term voltage stability assessment of power systems," /IEEE Access/, 2021, 9, 29711-29718.
+. Jiting Cao, Meng Zhang, *Yang Li**. "A review of data-driven short-term voltage stability assessment of power systems: Concept, principle, and challenges," /Mathematical Problems in Engineering/, 2021.
+. Shitu Zhang, Zhixun Zhu, and *Yang Li**. "A Critical Review of Data-Driven Transient Stability Assessment of Power Systems: Principles, Prospects and Challenges," /Energies/, 2021, 14(21):7238.
+. Xiaoyong Bo, Xiaoyu Chen, Huashun Li, Yunchang Dong, Zhaoyang Qu, Lei Wang, and *Yang Li*. "Modeling Method for the Coupling Relations of Microgrid Cyber-Physical Systems Driven by Hybrid Spatiotemporal Events," /IEEE Access/, 2021, 9:19619-19631.
+. Cheng Zhong, Yueming Lv, Huayi Li, JiKai Chen, and *Yang Li*. "Frequency support scheme based on parametrized power curve for de-loaded wind turbine under various wind speed," /Wind Engineering/, 2021.
+. Lei Kou, Xiaodong Gong, Yi Zheng, Xiuhui Ni, *Yang Li*, Quan-de Yuan, and Yanan Dong. "A random forests and currents fault texture features based method for currents sensors fault diagnosis in three-phase PWM VSR," /Frontiers in Energy Research/, 2021, 9, 291.
+. Liang Chen, Peng Jin, Jing Yang, *Yang Li*, and Yi Song. "Robust Kalman filter-based dynamic state estimation of natural gas pipeline networks," /Mathematical Problems in Engineering/, 2021(2021).
+. Liang Chen, Songlin Gu, Ying Wang, Yang Yang, and *Yang Li*. "Stacked autoencoder framework of false data injection attack detection in smart grid," /Mathematical Problems in Engineering/, 2021 (2021), 2014345.
+. Lei Wang, Pengcheng Xu, Zhaoyang Qu, Xiaoyong Bo, Yunchang Dong, Zhenming Zhang, and *Yang Li*. "Coordinated cyber-attack detection model of cyber-physical power system based on the operating state data link," /Frontiers in Energy Research/, 2021, 9:88.
+
+
+*2020*
+
+. *Yang Li**, Chunling Wang, Guoqing Li, Jinlong Wang, Dongbo Zhao, and Chen Chen. "Improving operational flexibility of integrated energy system with uncertain renewable generations considering thermal inertia of buildings," /Energy Conversion and Management/, 2020, 207, 112526. (ESI Highly Cited Paper)
+. Yingying Shi, Yongchao Zeng, Botang Han, *Yang Li*, and Ralph T. Muehleisen. "Leveraging inter-firm influence in the diffusion of energy efficiency technologies: An agent-based model," /Applied Energy/, 2020, 263:114641.
+. Jianhong Pan, Aidi Dong, Jiashu Fan, and *Yang Li**. "Online Static Voltage Stability Monitoring for Power Systems Using PMU Data," /Mathematical Problems in Engineering/, 2020, 6667842.
+. Jianhong Pan, Jiashu Fan, Aidi Dong, and *Yang Li**. "Random vector functional link network optimized by jaya algorithm for transient stability assessment of power systems," /Mathematical Problems in Engineering/, 2020, 8895022.
+. Jiaze Sun, Jiahui Deng, and *Yang Li*. "Indicator & crowding distance-based evolutionary algorithm for combined heat and power economic emission dispatch," /Applied Soft Computing/, 2020, 90: 106158.
+. Lei Wang, Zhaoyang Qu, *Yang Li*, Kewei Hu, Jian Sun, Kai Xue, and Mingshi Cui. "Method for extracting patterns of coordinated network attacks on electric power CPS based on temporal-topological correlation," IEEE Access, 2020, 8, 57260-57272.
+. *Yang Li** and Zhao Xu. "Editorial: Enabling High-Penetration Renewable Integration Into a Smarter Grid," /Frontiers in Energy Research/. 2020, 8:617556.
+. Yang Yu, Leyao Cong, Xia Tian, Zengqiang Mi, *Yang Li**, Zhen Fan,and Hui Fan. "A stator current vector orientation based multi-objective integrative suppressions of flexible load vibration and torque ripple for PMSM considering electrical loss," /CES Transactions on Electrical Machines and Systems/. 2020, 4(3):161-171.
+. Zhaoyuan Fang, Dongbo Zhao, Chen Chen, *Yang Li**, and Yutin Tian. Nonintrusive appliance identification with appliance-specific networks. IEEE Transactions on Industry Applications. 2020, 56(4):3443-3452.
+. Zhaoyang Qu, Qianhui Xie, Yuqing Liu, *Yang Li**, Lei Wang, Pengcheng Xu, Yuguang Zhou, and Jian Sun. "Power cyber-physical system risk area prediction using dependent Markov chain and improved grey wolf optimization," /IEEE Access/, 2020, 8, 82844-82854.
+. *Yang Li**, Chunling Wang and Guoqing Li. "A mini-review on high-penetration renewable integration into a smarter grid," /Frontiers in Energy Research/, 2020, 8, 84.
+. *Yang Li**, Zhi Li, Liang Chen, Guoqing Li. "A false data injection attack method for generator dynamic state estimation," /Transactions of China Electrotechnical Society/, 2020, 35(7):1476-1488. 
+. Yahui Li and *Yang Li**. "Security-constrained multi-objective optimal power flow for a hybrid AC\/VSC-MTDC system with Lasso-based contingency filtering," /IEEE Access/, 2020, 8, 6801-6811.
+. Yongchao Zeng, Peiwu Dong, Lingling Wang and *Yang Li*. "Analyzing the co-evolution of green technology diffusion and consumers' pro-environmental attitudes: An agent-based model," /Journal of Cleaner Production/, 2020, 256: 120384.
+. Meng Zhang and *Yang Li**. "Multi-objective optimal reactive power dispatch of power systems by combining classification based multi-objective evolutionary algorithm and integrated decision making," /IEEE Access/, 2020, 8: 38198-38209.
+. Xiangmin Lun, Shuyue Jia, Yimin Hou, Yan Shi, *Yang Li*, Hanrui Yang, Shu Zhang, and Jinglei Lv. "GCNs-net: a graph convolutional neural network approach for decoding time-resolved eeg motor imagery signals," arXiv preprint arXiv:2006.08924, 2020.
+. Yimin Hou, Shuyue Jia, Shu Zhang, Xiangmin Lun, Yan Shi, *Yang Li*, Hanrui Yang, Rui Zeng, and Jinglei Lv. "Deep feature mining via attention-based BiLSTM-GCN for human motor imagery recognition," arXiv preprint arXiv:2005.00777, 2020.
+. Shuyue Jia, Yimin Hou, Yan Shi, and *Yang Li*. "Attention-based graph ResNet for motor intent detection from raw EEG signals," arXiv preprint arXiv:2007.13484, 2020.
+
+*2019*
+. *Yang Li**, Zhen Yang, Dongbo Zhao, Hangtian Lei, Bai Cui and Shaoyan Li. "Incorporating energy storage and user experience in isolated microgrid dispatch using a multi-objective model," /IET Renewable Power Generation/ , 2019, vol. 13, no. 2, pp. 973-981. (ESI Highly Cited Paper)
+. *Yang Li**, Zhen Yang, Guoqing Li, Dongbo Zhao and Wei Tian. "Optimal Scheduling of an Isolated Microgrid With Battery Storage Considering Load and Renewable Generation Uncertainties," /IEEE Transactions on Industrial Electronics/, 2019, vol. 66, no. 2, pp. 1565-1575. (ESI Highly Cited Paper)
+. *Yang Li**, Zhi Li, and Liang Chen. "Dynamic state estimation of generators under cyber attacks," /IEEE Access/, 2019, 7, 125253-125267.
+. *Yang Li**, Kang Li. "Incorporating demand response of electric vehicles in scheduling of isolated microgrids with renewables using a bi-level programming approach", /IEEE Access/, 2019, 7, 116256-116266.
+. *Yang Li**, Jing Li, Junjian Qi, and Liang Chen. "Robust cubature Kalman filter for dynamic state estimation of synchronous machines under unknown measurement noise statistics," IEEE Access, 2019, 7, 29139-29148.
+. *Yang Li** and Shangsong Wu. "Controlled islanding for a hybrid AC\/DC grid with VSC-HVDC using semi-supervised spectral clustering," /IEEE Access/, 2019, 7, 10478-10490.
+. Shaoyan Li, Xueping Gu, Guangqi Zhou, and *Yang Li*. "Optimisation and comprehensive evaluation of alternative energising paths for power system restoration," /IET Generation Transmission & Distribution/, 2019, 13 (10), 1923-1932.
+. Qu, Zhaoyang, Yunchang Dong, Nan Qu, Lei Wang, *Yang Li*, Yu Zhang, and Sylvere Mugemanyi. "Survivability evaluation method for cascading failure of electric cyber physical system considering load optimal allocation," /Mathematical Problems in Engineering/, 2019.
+. Yahui Li, *Yang Li**, and Guoqing Li. "Optimal Power Flow for AC\/DC System Based on Cooperative Multi-objective Particle Swarm Optimization," /Automation of Electric Power Systems/, 2019, 43 (4), 94-100.
+. Yahui Li, *Yang Li**, Guoqing Li. "Multi-objective optimal power flow for AC\/DC system with VSC-HVDC based on cooperative multi-objective particle swarm optimization". /Automation of Electric Power Systems/, 2019, 43(4), 94-100.
+. Zhenhao Tang, Qingyu Meng, Shengxian Cao, *Yang Li*, Zhonghua Mu, Xiaoya Pang. "Wind power ramp prediction algorithm based on wavelet deep belief network", /Acta Energiae Solaris Sinica/, 2019, 40 (11), 3213-3220.
+
+*2018*
+. *Yang Li**, Zhen Yang, Guoqing Li, Yunfei Mu, Dongbo Zhao, Chen Chen, and Bo Shen. "Optimal scheduling of isolated microgrid with an electric vehicle battery swapping station in multi-stakeholder scenarios: a bi-level programming approach via real-time pricing," /Applied Energy/, 2018, 232, 54-68. (ESI Highly Cited Paper)
+. *Yang Li**, Bo Feng, Guoqing Li, Junjian Qi, Dongbo Zhao, and Yunfei Mu. "Optimal distributed generation planning in active distribution networks considering integration of energy storage," /Applied Energy/, 2018, 210, 1073-1081. (ESI Hot & Highly Cited Paper)
+. Yahui Li, *Yang Li**. "Two-stage many-objective optimal power flow based on knee point-driven evolutionary algorithm," /Processes/, 2018, 6(12), 250. 
+. *Yang Li**, Jing Li, Liang Chen, Guoqing Li. "Dynamic state estimation of synchronous machines based on robust cubature kalman filter under complex measurement noise conditions," /Transactions of China Electrotechnical Society/, 2019, 34 (17), 3651-3660.
+. *Yang Li**, Jinlong Wang, Dongbo Zhao, Guoqing Li, Chen Chen. "A two-stage approach for combined heat and power economic emission dispatch: combining multi-objective optimization with integrated decision making," /Energy/, 2018, 162, 237-254. (ESI Highly Cited Paper)
+. *Yang Li**, Yahui Li, Guoqing Li, Dongbo Zhao, Chen Chen. "Two-stage multi-objective OPF for AC\/DC grids with VSC-HVDC: Incorporating decisions analysis into optimization process," /Energy/, 2018, 147, 286-296. (ESI Highly Cited Paper)
+. Jiaze Sun, *Yang Li*. "Social cognitive optimization with tent map for combined heat and power economic dispatch". /International Transactions on Electrical Energy Systems/, 2018.
+. Yahui Li, *Yang Li**, Yuanyuan Sun. "Online static security assessment of power systems based on lasso algorithm". /Applied Sciences/, 2018, 8(9), 1442.
+. Yahui Li, *Yang Li**. "Two-step many-objective optimal power flow based on knee point-driven evolutionary algorithm", /Processes/, 2018, 6(12), 250.
+. Zhaoyang Qu, Yu Zhang, Nan Qu, Lei Wang, *Yang Li*, and Yunchang Dong. "Method for quantitative estimation of the risk propagation threshold in electric power CPS based on seepage probability". /IEEE Access/, 2018, 6, 68813-68823.
+. Yongchao Zeng, Peiwu Dong, Yingying Shi, and *Yang Li*. "On the disruptive innovation strategy of renewable energy technology diffusion: an agent-based model". /Energies/, 2018, 11(11), 3217.
+. Guoqing Li, Xiaojuan Zhai, *Yang Li*, Zhenhao Wang, Jikai Chen, and Mingjiang Zhang. "Multi-objective fuzzy optimization operation of micro-grid based on improved ant colony algorithm" /Acta Energiae Solaris Sinica/, 2018, 39(8): 2310-2317.
+. Zhenhao Wang, Zuoyu You, Yalei Huang, *Yang Li*, and Guoqing Li. "Load margin analysis of hybrid AC\/DC system with two terminal VSC-HVDC using continuous power flow method", 2018, 46 (6), 9-15.
+
+*Before 2017*
+. Peng Jin, *Yang Li**, Guoqing Li, Zhe Chen, Xiaojuan Zhai. "Optimized hierarchical power oscillations control for distributed generation under unbalanced conditions," /Applied Energy/, 2017, 194, 343-352. (co-first author)
+. *Yang Li**, and Zhen Yang. "Application of EOS-ELM with binary Jaya-based feature selection to real-time transient stability assessment using PMU data," /IEEE Access/, 2017, 5, 23092-23101.
+. Zhenhao Wang, Mingze Zhang, Hongjin Du, *Yang Li**, and Guoqing Li. "A searching algorithm for optimal controlled islanding surfaces considering VSC-HVDC terminal constraint," /Transactions of China Electrotechnical Society/, 2017, 32(17): 57-66.
+. *Yang Li**, Bo Feng, Guoqing Li, Jikai Chen, Zhenhao Wang, and Mingjiang Zhang. "Bi-Level programming of distributed generation in active distribution network considering integration influence of energy storage system," /Acta Energiae Solaris Sinica/, 2017, 38 (12), 3311-3318.
+. Jikai Chen, Chuan Sun, Guoqing Li, *Yang Li*, Jiang Li. "Study on characteristics of DC fault in bipolar MMCHVDC system," /Transactions of China Electrotechnical Society/, 2017, 32(10): 53-60.
+. Kai Gao, Chunsheng Yan, Zhengwen Li, Zijiao Han, Bowen Tian, *Yang Li*, and Guoqing Li. "Transient stability assessment based on WAMS and Gaussian process classifier," /Modern Electric Power/, 2017, 34(2), 56-61.
+. Jikai Chen, Yanhui Dou, *Yang Li*, et al. "A Transient Fault Recognition Method for an AC-DC Hybrid Transmission System Based on MMC Information Fusion," /Energies/, 2016, 10(1), 23.
+. *Yang Li**, Yahui Li, Zijiao Han, Guoqing Li, Kai Gao, and Zhenhao Wang. "Determination of optimal opening scheme for electromagnetic loop networks based on fuzzy analytic hierarchy process," /Mathematical Problems in Engineering/, 2016, 2016: 3965608.
+. *Yang Li**, Guoqing Li, and Zhenhao Wang. "Rule extraction based on extreme learning machine and an improved ant-miner algorithm for transient stability assessment," /PloS One/, 2015, 10(6): e0130814. (ESI Highly Cited Paper)
+. Xueping Gu, *Yang Li**, and Jinghua Jia. "Feature selection for transient stability assessment based on kernelized fuzzy rough sets and memetic algorithm," /International Journal of Electrical Power & Energy Systems/, 2015, 64: 664-670.
+. *Yang Li**, Guoqing Li, Zhenhao Wang, Zijiao Han, and Xue Bai. "A multifeature fusion approach for power system transient stability assessment using PMU data," /Mathematical Problems in Engineering/, 2015, 2015: 786396 
+. Yanjun Zhang, Tie Li, Guangyu Na, Guoqing Li, and *Yang Li*. "Optimized extreme learning machine for power system transient stability prediction using synchrophasors," /Mathematical Problems in Engineering/, 2015, 2015: 529724 
+. *Yang Li**, Yahui Li, Guoqing Li, et al. "A multi-objective optimal power flow approach considering economy and environmental factors for hybrid AC\/DC grids incorporating VSC-HVDC," /Power System Technology/, 2016, 40(9): 2661-2667.
+. Zhenhao Wang, Jinbo Song, Zijiao Han, Henan Dong, and *Yang Li**. "Characteristic of nested-loop mechanism based modular multilevel converter based on hybrid sub-modules," /Automation of Electric Power Systems/, 2016, 40(24): 92-97.
+. Jikai Chen, Xiuwei Ma, Jiang Li, *Yang Li*, Zhenhao Wang, Nantian Huang, Yongquan Wang, and Bo Dong. "Analysis on interaction of two-parallel APF," /Power System Technology/, 2017, 41 (3), 956-961.
+. *Yang Li*, Guoqing Li, Xueping Gu, et al. "Transient stability assessment of power systems based on ensemble OS-ELM," /Transactions of China Electrotechnical Society/, 2015, 30(14): 412-418. 
+. Yimeng Li, Xueping Gu, and *Yang Li*. "Research on dynamic continuous diagnosis mechanism of power systems faults," /Journal of Beijing Jiaotong University/, 2014, 38(5): 142-146.
+. *Yang Li*, Xueping Gu. "Feature selection for transient stability assessment based on improved maximal relevance and minimal redundancy criterion," /Proceedings of the CSEE/, 2013, 33(34): 179-186.
+. Xueping Gu, *Yang Li**, Xianji Wu. "Transient stability assessment of power systems based on local learning machine and bacterial colony chemotaxis algorithm," /Transactions of China Electrotechnical Society/, 2013 28(10): 271-279.
+. *Yang Li*, Xueping Gu. "Application of online SVR in very short-term load forecasting," /International Review of Electrical Engineering (IREE)/, 2013, 8(1): 277-282.
+. Jikai Chen, Yanhui Dou, *Yang Li*, Jiang Li. "Application of shannon wavelet entropy and shannon wavelet packet entropy in analysis of power system transient signals," /Entropy/, 2016, 18(12): 437.
+. Yunfeng Song, *Yang Li*, Xinwei Li. "Reactive power optimization of the power system based on quantum-behaved particle swarm optimization," /Northeast Electric Power Technology/, 2011, 5: 1-4. 
+. Hua Lan, Tao Ai, and *Yang Li*. "Application of EMD on single-pole adaptive reclosure of transmission," /Power System Protection and Control/, 2010, 38 (12), 35-39.
+. Zhibiao Shi, *Yang Li*, Xiao Wang, Tong Wang, and Wan-Min Li. "Path planning for mobile robot based on quantum-behaved particle swarm optimization," /Journal of Harbin Institute of Technology/, 2010, 42, 33-37. 
+. Xiangping Meng, Xiao Wang, and *Yang Li*. "Choose the best path of the multi-agent soccer robot system," /Journal of Harbin Institute of Technology/, 2010, 42, 25-27. 
+. Guangmin Gao, Tong Wang, Guoju Shang, and *Yang Li*. "Research on coordination graphs for multi-robot decision making," /Journal of Harbin Institute of Technology/, 2010, 42, 203-208.
+. Zhibiao Shi, Yueying Tong, Donghui Chen, and *Yang Li*. "Identification of beef freshness with electronic nose," /Nongye Jixie Xuebao/. 2009, 40(11):184-188.
+. Zhibiao Shi, Tao Yu, Qun Zhao, *Yang Li*, and Yubin Lan. "Comparison of algorithms for an electronic nose in identifying liquors," /Journal of Bionic Engineering/, 2008, 5(3), 253-257.
+. Zhibiao Shi, Xuebing Fan, *Yang Li*, and Yan Liu. "Prospective application of bionic nose based on biological olfaction to transformer fault diagnosis," /Transformer/, 2008, 45(2): 38-40.
+. Zhibiao Shi, Shengquan Huang, Xuebing Fan, *Yang Li*. "Study on electronic nose based on biologic olfaction," /China Mechanical Engineering/, 2007, 18(23): 2810-2813.
+
+
+
+== Conference Papers
+. Zhaoyuan Fang, Dongbo Zhao, Chen Chen, *Yang Li*, Yuting Tian. "Non-intrusive appliance identification with appliance-specific networks," /IEEE Industry Applications Society Annual Meeting/, Baltimore, USA, 2019.
+. Yinfeng Sun, Zhenhao Wang, Chao Long, Guoqing Li, Dapeng Xia, and *Yang Li*. "Method for power flow controller location-allocation and optimized flow control method of meshed DC grid," In 2019 4th IEEE Workshop on the Electronic Grid (eGRID), pp. 1-6. IEEE, 2019.
+. Xueping Gu, *Yang Li*, "Bayesian multiple kernels learning-based transient stability assessment of power systems using synchronized measurements," IEEE PES General Meeting, BC, Canada, 2013
+. *Yang Li*, Yahui Li, Guoqing Li, "A two-stage multi-objective optimal power flow algorithm for hybrid AC/DC grids with VSC-HVDC," IEEE PES General Meeting, Chicago, China, 2017
+. Jikai Chen, Chuan Sun, *Yang Li*, et al. (2017, July), "The analysis of DC fault mode effects on MMC-HVDC system," IEEE PES General Meeting, Chicago, China, 2017.
+. Guoqing Li, Xiaojuan Zhai, *Yang Li*, Bo Feng, Zhenhao Wang, and Mingjiang Zhang. "Multi-objective optimization operation considering environment benefits and economy based on ant colony optimization for isolated micro-grids," /Energy Procedia/, 104 (21), e26, 2016.
+. Jikai Chen, Xiuwei Ma, *Yang Li*. "Dynamic interaction analysis of two-parallel active power filter." China International Conference on Electricity Distribution (CICED), Xi’an, China, 2016. (EI)
+. Bo Feng, Xiaojuan Zhai, Yang Li, Zhenhao Wang. Experimental study on black-start capability of VSC-HVDCfor passive networks. IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC). Xi’an, China, 2016.
+. *Yang Li*, Xueping Gu. Power system transient stability assessment based on online sequential extreme learning machine. IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC), Kowloon, China, 2013.
+. Zhi-biao Shi, *Yang Li*, Tao Yu. "Short-term load forecasting based on LS-SVM optimized by bacterial colony chemotaxis algorithm," International Conference on Information and Multimedia Technology, Jeju Island, South Korea, 2009.
+. Zhibiao Shi, *Yang Li*. "Fault diagnosis of power transformer using LS-SVMs with BCC," 2nd IEEE International Conference on Computer Science and Information Technology, Beijing, China, 2009.
+. Hua Lan, Tao Ai, *Yang Li*. ”Single phase adaptive reclosure of transmission lines based on EMD approximate entropy and LS-SVM with BCC," International Conference on Information Engineering and Computer Science, Wuhan, China, 2009.
+. Zhibiao Shi, *Yang Li*, Yunfeng Song, Tao Yu. “Fault diagnosis of transformer based on quantum-behaved particle
+swarm optimization-based least squares support vector machines," IEEE International Conference on Information
+Engineering and Computer Science, Wuhan, China, 2009.
+. *Yang Li*. Short-term load forecasting based on LS-SVM optimized by BCC algorithm. IEEE 15th International
+Conference on Intelligent System Applications to Power Systems, Curitiba, Brazil, 2009.
+. Liang Chen, Xinxin Hui, Songlin Gu, Manyun Huang, and *Yang Li*. Dynamic State Estimation for Integrated Natural Gas and Electric Power Systems. 2021 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia), to be published.
+. Jiaze Sun, Jiahui Deng, *Yang Li*, Shuaiyin Ma, and Nan Han. A BCS-GDE Algorithm for Multi-objective Optimization of Combined Cooling, Heating and Power Model. 2021 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia), to be published.
+
+== Patents
+
+. *Yang Li*, Yahui Li, Guoqing Li, Zhenhao Wang, Yechun Xin, He Wang, Chaobin Wang, Ruitong Liu. \A MultiObjective Power Flow Optimization Method for AC/DC System Containing VSC-HVDC", Patent No. ZL201510882003.7,
+Application date 2015-12-04, Grant date 2019-08-06.
+. *Yang Li*, Mingze Zhang, Zhenhao Wang, Guoqing Li, Yechun Xin, Chaobin Wang, He Wang, Ruitong Liu. \A Search
+Method for Optimal Splitting Sections of AC/DC Systems Containing VSC-HVDC Based on Spectral Clustering",
+Patent No. ZL201610436573.8, Application date 2016-06-17, Grant date 2019-11-19.
+. Zhenhao Wang, Mingze Zhang, *Yang Li*, Guoqing Li, Yechun Xin, He Wang, Jikai Chen, Ruitong Liu. A composite
+out-of-synchronization criterion method for AC system multi-frequency oscillation based on wide-area measurement
+information. Patent No. ZL201510900265.1, Application date 2015-12-08, Grant date 2017-10-20.
+. Jikai Chen, Yanhui Dou, Guoqing Li, Zhenhao Wang, Yechun Xin, Yanjun Zhang, Zijiao Han, He Wang, *Yang
+Li*, Yingxuan Yang. Transient fault identification method of AC systems based on information fusion technology of
+9MMC converter stations. Patent No. ZL201510954567.6, Application date 2015-12-21, Grant date 2018-02-27.
+. Zhenhao Wang, Yanhua Zhou, Guoqing Li, Jikai Chen, *Yang Li*, Chaobin Wang, Yi Xiong, Hongtao Chen. A
+method for accuracy analysis of MMC digital-analog hybrid simulation system. Patent No. ZL201510333250.1,
+Application date 2015-06-16, Grant date 2018-04-24.
+. Guoqing Li, Jikai Chen, Binghui Li, Zhenhao Wang, Jiang Li, He Wang, *Yang Li*, Yechun Xin, Weiguo Li. Harmonic
+energy transfer function modeling method for MMC converter station. Patent No. ZL201610253389.X, Application
+date 2016-04-22, Grant date 2018-04-03.
+. Jikai Chen, Chuan Sun, Guoqing Li, Zhenhao Wang, Yechun Xin, *Yang Li*, He Wang. Analysis Method of Harmonic
+One-way Transmission Characteristics of MMC Converter Stations. Patent No. ZL201611021262.1, Application date
+2016-11-15, Grant date 2019-10-11.
+. Guoqing Li, Houhe Chen, Rufeng Zhang, Tao Jiang, *Yang Li*, Yechun Xin, Zhenhao Wang, Weiguo Li, He Wang.
+A two-stage source-load scheduling method and device considering peak shaving and climbing requirements. Patent
+No. ZL201510715947.5, Application date 2015-10-29, Grant date 2017-12-05.
+. Jikai Chen, Yanhui Dou, *Yang Li*, He Wang, Jiang Li, Yechun Xin, Zhenhao Wang, Guoqing Li. Evaluation Method
+of Transient Disturbance Interactive Influence State for MMC-HVDC. Patent No. ZL201611011196.X, Application
+date 2016-11-17, Grant date 2019-04-26.
+. Jikai Chen, Yanhui Dou, Guoqing Li, Yechun Xin, Zhenhao Wang, He Wang, *Yang Li*. Fuzzy Comprehensive
+Evaluation Method for the Operation State of MMC Converter Stations. Patent No. ZL201610290927.2, Application
+date 2016-05-05, Grant date 2019-01-04.
+. Jikai Chen, Yongquan Wang, Jiang Li, Nantian Huang, He Wang, *Yang Li*, Zhenhao Wang. H-bridge cascaded
+parallel harmonic circulation suppression method for SVGs. Patent No. ZL201611175680.6, Application date 2016-
+12-19, Grant date 2020-02-14.
+. Jikai Chen, Yanhui Dou, Zhenhao Wang, *Yang Li*, Yechun Xin, He Wang. Feature Extraction Method Based on
+Wavelet Packet Survival Index Singular Entropy for Partial Discharge of Cables. Patent No. ZL201610328153.8,
+Application date 2016-05-18, Grant date 2020-01-03.
+. Jikai Chen, Yongquan Wang, Guoqing Li, Zhenhao Wang, Yechun Xin, He Wang, *Yang Li*. H-bridge cascaded SVG
+parallel higher harmonic circulating current degree evaluation method. Patent No. ZL201611010735.8, Application
+date 2016-11-17, Grant date 2021-07-20.
