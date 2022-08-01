@@ -10,30 +10,36 @@
 == Accepted Journal Papers
 
 . Yuanzheng Li, Shangyang He, *Yang Li**, Leijiao Ge, Suhua Lou, and Zhigang Zeng. "Probabilistic Charging Power Forecast of EVCS: Reinforcement Learning Assisted Deep Learning Approach," /IEEE Transactions on Intelligent Vehicles/, to be published.
-. *Yang Li**, Bo Feng, Bin Wang, and Shuchao Sun. "Joint planning of distributed generations and energy storage in active distribution networks: A Bi-Level programming approach," /Energy/, to be published.
-. *Yang Li**, Bin Wang, Zhen Yang, Jiazheng Li, and Chen Chen. "Hierarchical stochastic scheduling of multi-community integrated energy systems in uncertain environments via Stackelberg game," /Applied Energy/, to be published.
-. *Yang Li**, Bin Wang, Zhen Yang, Jiazheng Li, and Guoqing Li. "Optimal scheduling of integrated demand responseenabled community-integrated energy systems in uncertain environments," /IEEE Transactions on Industry Applications/, to be published.
-. *Yang Li**, Meng Zhang. "A Deep-Learning Intelligent System Incorporating Data Augmentation for Short-Term Voltage Stability Assessment of Power Systems," /Applied Energy/, to be published.
-. *Yang Li**, Kang Li, Zhen Yang, Yang Yu, Runnan Xu, and Miaosen Yang. "Stochastic optimal scheduling of demand response-enabled microgrids with renewable generations: An analytical-heuristic approach," /Journal of Cleaner Production/, to be published.
-. Liang Chen, *Yang Li*, Manyun Huang, Xinxin Hui, and Songlin Gu. "Robust Dynamic State Estimator of Integrated Energy Systems based on Natural Gas Partial Differential Equations," /IEEE Transactions on Industry Applications/, to be published.
-. Jia Cui, Jiang Pan, Shunjiang Wang, Martin Onyeka Okoye, Junyou Yang, *Yang Li*, and Hao Wang "Improved normal-boundary intersection algorithm: a method for energy optimization strategy in smart buildings," /Building and Environment/, to be published.
-. Yinfeng Sun, Dapeng Xia, Zichun Gao, Zhenhao Wang, Guoqing Li, Weihua Lu, Xueguang Wu, and *Yang Li*, "Probabilistic load flow calculation of AC/DC hybrid system based on cumulant method," /International Journal of Electrical Power & Energy Systems/, to be published.
-. Zhaoyang Qu, Xiaoyong Bo, Tong Yu, Yaowei Liu, Yunchang Dong, Zhongfeng Kan, Lei Wang, and *Yang Li*, "Active and Passive Hybrid Detection Method for Power CPS False Data Injection Attacks with Improved AKF and GRU-CNN, " /IET Renewable Power Generation/, to be published.
-. Zhaoyang Qu, Yunchang Dong, Sylvère Mugemanyi, Tong Yu, Xiaoyong Bo, Huashun Li, *Yang Li*, François Xavier Rugema, and Christophe Bananeza, "Dynamic Exploitation Gaussian Bare-Bones Bat Algorithm for Optimal Reactive Power Dispatch to Improve the Safety and Stability of Power System," /IET Renewable Power Generation/, to be published.
-. Zhenhao Tang, Shikui Wang, Shengxian Cao, *Yang Li*, and Tao Shen. "Dynamic prediction model for NOX emission of SCR system based on hybrid data-driven algorithms," /Proceedings of the CSEE/, to be published.
 . Zhenhao Tang, Deyu Zhu, and *Yang Li*. "Data driven based dynamic correction prediction model for NOx emission of coal fired boiler,"  /Proceedings of the CSEE/, to be published. 
-. Zhenhao Tang, Shikui Wang, Xiangying Chai, Shengxian Cao, Tinghui Ouyang, and *Yang Li*. "Auto-encoder-extreme learning machine model for boiler NOx emission concentration prediction", /Energy/, to be published.
-. Quande Yuan, Yuzhen Pi, Lei Kou, Fangfang Zhang, *Yang Li*, and Zhenming Zhang. "Multi-source data processing and fusion method for power distribution internet of things based on edge intelligence," /Frontiers in Energy Research/, to be published. 
-. Jiaze Sun, Jiahui Deng, *Yang Li*, and Nan Han. "A BCS-GDE Multi-objective Optimization Algorithm for Combined Cooling, Heating and Power Model with Decision Strategies," /Applied Thermal Engineering/, to be published. 
-
 
 == Published Journal Papers 
 
 *2022*
 
+. *Yang Li**, Bo Feng, Bin Wang, and Shuchao Sun. "Joint planning of distributed generations and energy storage in active distribution networks: A Bi-Level programming approach," /Energy/, 2022, 245: 123226.
 . *Yang Li**, Jiazheng Li, and Yi Wang. "Privacy-preserving spatiotemporal scenario generation of renewable energies: A federated deep generative learning approach," /IEEE Transactions on Industrial Informatics/, 2022, 18(4):2310-2320.
 . *Yang Li**, Ruinong Wang, and Zhen Yang. "Optimal scheduling of isolated microgrids using automated reinforcement learning-based multi-period forecasting," /IEEE Transactions on Sustainable Energy/, 2022, 13(1):159-169.
+. *Yang Li**, Bin Wang, Zhen Yang, Jiazheng Li, and Guoqing Li. "Optimal scheduling of integrated demand responseenabled community-integrated energy systems in uncertain environments," /IEEE Transactions on Industry Applications/, 2022, 58(2): 2640-2651.
+. *Yang Li**, Meng Zhang. "A Deep-Learning Intelligent System Incorporating Data Augmentation for Short-Term Voltage Stability Assessment of Power Systems," /Applied Energy/, 2022, 308: 118347.
+. *Yang Li**, Bin Wang, Zhen Yang, Jiazheng Li, and Chen Chen. "Hierarchical stochastic scheduling of multi-community integrated energy systems in uncertain environments via Stackelberg game," /Applied Energy/, 2022, 209, 118392.
+. *Yang Li**, Kang Li, Zhen Yang, Yang Yu, Runnan Xu, and Miaosen Yang. "Stochastic optimal scheduling of demand response-enabled microgrids with renewable generations: An analytical-heuristic approach," /Journal of Cleaner Production/, 2022, 330:129840.
+. Liang Chen, *Yang Li*, Manyun Huang, Xinxin Hui, and Songlin Gu. "Robust Dynamic State Estimator of Integrated Energy Systems based on Natural Gas Partial Differential Equations," /IEEE Transactions on Industry Applications/, 2022, 58 (03):3303-3312.
+. Liang Chen, Chao Long, and *Yang Li*. "Editorial: New Solutions for Smart Grids with High Penetration Distributed Energy Resources Authors," /Frontiers in Energy Research/, 2022, 9:739253.
+. Zhaoyang Qu, Xiaoyong Bo, Tong Yu, Yaowei Liu, Yunchang Dong, Zhongfeng Kan, Lei Wang, and *Yang Li*, "Active and Passive Hybrid Detection Method for Power CPS False Data Injection Attacks with Improved AKF and GRU-CNN, " /IET Renewable Power Generation/, 2022, 16(7):1490-1508.
+. Yinfeng Sun, Dapeng Xia, Zichun Gao, Zhenhao Wang, Guoqing Li, Weihua Lu, Xueguang Wu, and *Yang Li*, "Probabilistic load flow calculation of AC/DC hybrid system based on cumulant method," /International Journal of Electrical Power & Energy Systems/, 2022, 139:107998.
+. Zhaoyang Qu, Yunchang Dong, Sylvère Mugemanyi, Tong Yu, Xiaoyong Bo, Huashun Li, *Yang Li*, François Xavier Rugema, and Christophe Bananeza, "Dynamic Exploitation Gaussian Bare-Bones Bat Algorithm for Optimal Reactive Power Dispatch to Improve the Safety and Stability of Power System," /IET Renewable Power Generation/, 2022, 16:1401-1424.
+. Zhenhao Tang, Shikui Wang, Shengxian Cao, *Yang Li*, and Tao Shen. "Dynamic prediction model for NOX emission of SCR system based on hybrid data-driven algorithms," /Proceedings of the CSEE/, 2022, 42(09):3295-3306.
+. Zhenhao Tang, Shikui Wang, Xiangying Chai, Shengxian Cao, Tinghui Ouyang, and *Yang Li*. "Auto-encoder-extreme learning machine model for boiler NOx emission concentration prediction", /Energy/, 2022, 256:124552.
+. Jiaze Sun, Jiahui Deng, *Yang Li*, and Nan Han. "A BCS-GDE Multi-objective Optimization Algorithm for Combined Cooling, Heating and Power Model with Decision Strategies," /Applied Thermal Engineering/, 2022, 213:118685.
+. Quande Yuan, Yuzhen Pi, Lei Kou, Fangfang Zhang, *Yang Li*, and Zhenming Zhang. "Multi-source data processing and fusion method for power distribution internet of things based on edge intelligence," /Frontiers in Energy Research/, 2022, 10:891867.
+. Jia Cui, Jiang Pan, Shunjiang Wang, Martin Onyeka Okoye, Junyou Yang, *Yang Li*, and Hao Wang "Improved normal-boundary intersection algorithm: a method for energy optimization strategy in smart buildings," /Building and Environment/, 2022, 212:108846.
+. Cheng Zhong, Yueming Lv, Huayi Li, JiKai Chen, and *Yang Li*. "Frequency support scheme based on parametrized power curve for de-loaded wind turbine under various wind speed," /Wind Engineering/, 2022, 46(2):459-479.
 . Cheng Zhong, Huayi Li, Yang Zhou, Yueming Lv, Jikai Chen, and *Yang Li*. "Virtual synchronous generator of PV generation without energy storage for frequency support in autonomous microgrid", /International Journal of Electrical Power & Energy Systems/, 2022, 134:107343.
+. Jia Cui, Yonghui Jin, Renzhe Yu, Onyeka Martin Okoye, *Yang Li*, Junyou Yang, and Shunjiang Wang. "A robust approach for the decomposition of high-energy-consuming industrial loads with deep learning," /Journal of Cleaner Production
+/, 2022, 349:131208.
+. Lei Yan, Runnan Xu, Mehrdad Sheikholeslami, *Yang Li*, and Zuyi Li. "State identification of home appliance with transient features in residential buildings," /Frontiers in Energy/, 2022, 16: 130-143.
+. Lei Kou, Yang Li, Fangfang Zhang, Xiaodong Gong, Yinghong Hu, Quande Yuan, and Wende Ke. "Review on Monitoring, Operation and Maintenance of Smart Offshore Wind Farms," /Sensors/, 2022, 22(08): 2822.
+. Fangfang Zhang, Zhe Huang, Lei Kou, *Yang Li*, Maoyong Cao, and Fengying Ma. "Data Encryption based on 9D Complex Chaotic System with Quaternion for Smart Grid," /Chinese Physics B/, 2022.
 
 *2021*
 
@@ -45,7 +51,6 @@
 . Jiting Cao, Meng Zhang, *Yang Li**. "A review of data-driven short-term voltage stability assessment of power systems: Concept, principle, and challenges," /Mathematical Problems in Engineering/, 2021.
 . Shitu Zhang, Zhixun Zhu, and *Yang Li**. "A Critical Review of Data-Driven Transient Stability Assessment of Power Systems: Principles, Prospects and Challenges," /Energies/, 2021, 14(21):7238.
 . Xiaoyong Bo, Xiaoyu Chen, Huashun Li, Yunchang Dong, Zhaoyang Qu, Lei Wang, and *Yang Li*. "Modeling Method for the Coupling Relations of Microgrid Cyber-Physical Systems Driven by Hybrid Spatiotemporal Events," /IEEE Access/, 2021, 9:19619-19631.
-. Cheng Zhong, Yueming Lv, Huayi Li, JiKai Chen, and *Yang Li*. "Frequency support scheme based on parametrized power curve for de-loaded wind turbine under various wind speed," /Wind Engineering/, 2021.
 . Lei Kou, Xiaodong Gong, Yi Zheng, Xiuhui Ni, *Yang Li*, Quan-de Yuan, and Yanan Dong. "A random forests and currents fault texture features based method for currents sensors fault diagnosis in three-phase PWM VSR," /Frontiers in Energy Research/, 2021, 9, 291.
 . Liang Chen, Peng Jin, Jing Yang, *Yang Li*, and Yi Song. "Robust Kalman filter-based dynamic state estimation of natural gas pipeline networks," /Mathematical Problems in Engineering/, 2021(2021).
 . Liang Chen, Songlin Gu, Ying Wang, Yang Yang, and *Yang Li*. "Stacked autoencoder framework of false data injection attack detection in smart grid," /Mathematical Problems in Engineering/, 2021 (2021), 2014345.
