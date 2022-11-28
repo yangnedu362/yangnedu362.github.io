@@ -8,15 +8,19 @@
 
 
 == Accepted Journal Papers
-. *Yang Li**, Xinhao Wei, Yuanzheng Li, Zhaoyang Dong, Mohammad Shahidehpour. "Detection of False Data Injection Attacks in Smart Grid: A Secure Federated Deep Learning Approach," /IEEE Transactions on Smart Grid/, to be published.
 . Xiangmin Lun, Shuyue Jia, Yimin Hou, Yan Shi, *Yang Li*, Hanrui Yang, Shu Zhang, Jinglei Lv. "GCNs-net: a graph convolutional neural network approach for decoding time-resolved EEG motor imagery signals," /IEEE Transactions on Neural Networks and Learning Systems/, to be published.
-. Rui Yang, *Yang Li**. "Resilience assessment and improvement for electric power transmission systems against typhoon disasters: A data-model hybrid driven approach," /Energy Reports/, to be published.
 . Yuanzheng Li, Shangyang He, *Yang Li**, Leijiao Ge, Suhua Lou, and Zhigang Zeng. "Probabilistic Charging Power Forecast of EVCS: Reinforcement Learning Assisted Deep Learning Approach," /IEEE Transactions on Intelligent Vehicles/, to be published.
 . Zhenhao Tang, Deyu Zhu, and *Yang Li*. "Data driven based dynamic correction prediction model for NOx emission of coal fired boiler,"  /Proceedings of the CSEE/, to be published. 
 
 == Published Journal Papers 
 
+*2023*
+. *Yang Li**, Ruinong Wang, Yuanzheng Li, Meng Zhang, and Chao Long. "Wind power forecasting considering data privacy protection: A federated deep reinforcement learning approach," /Applied Energy/, 2023, 329: 120291.
+
+
 *2022*
+. *Yang Li**, Xinhao Wei, Yuanzheng Li, Zhaoyang Dong, and Mohammad Shahidehpour. "Detection of False Data Injection Attacks in Smart Grid: A Secure Federated Deep Learning Approach," /IEEE Transactions on Smart Grid/, 2022, 13(6): 4862-4872.
+. Rui Yang, *Yang Li**. "Resilience assessment and improvement for electric power transmission systems against typhoon disasters: A data-model hybrid driven approach," /Energy Reports/, 2022, 8: 10923-10936.
 . *Yang Li**, Bo Feng, Bin Wang, and Shuchao Sun. "Joint planning of distributed generations and energy storage in active distribution networks: A Bi-Level programming approach," /Energy/, 2022, 245: 123226.
 . *Yang Li**, Jiazheng Li, and Yi Wang. "Privacy-preserving spatiotemporal scenario generation of renewable energies: A federated deep generative learning approach," /IEEE Transactions on Industrial Informatics/, 2022, 18(4):2310-2320.
 . *Yang Li**, Ruinong Wang, and Zhen Yang. "Optimal scheduling of isolated microgrids using automated reinforcement learning-based multi-period forecasting," /IEEE Transactions on Sustainable Energy/, 2022, 13(1):159-169.
@@ -24,6 +28,7 @@
 . *Yang Li**, Meng Zhang. "A Deep-Learning Intelligent System Incorporating Data Augmentation for Short-Term Voltage Stability Assessment of Power Systems," /Applied Energy/, 2022, 308: 118347.
 . *Yang Li**, Bin Wang, Zhen Yang, Jiazheng Li, and Chen Chen. "Hierarchical stochastic scheduling of multi-community integrated energy systems in uncertain environments via Stackelberg game," /Applied Energy/, 2022, 209, 118392.
 . *Yang Li**, Kang Li, Zhen Yang, Yang Yu, Runnan Xu, and Miaosen Yang. "Stochastic optimal scheduling of demand response-enabled microgrids with renewable generations: An analytical-heuristic approach," /Journal of Cleaner Production/, 2022, 330:129840.
+. *Yang Li**, Fanjin Bu, Jiankai Gao, and Guoqing Li. "Optimal dispatch of low-carbon integrated energy system considering nuclear heating and carbon trading," /Journal of Cleaner Production/, 2022, 378: 134540.
 . Liang Chen, *Yang Li*, Manyun Huang, Xinxin Hui, and Songlin Gu. "Robust Dynamic State Estimator of Integrated Energy Systems based on Natural Gas Partial Differential Equations," /IEEE Transactions on Industry Applications/, 2022, 58 (03):3303-3312.
 . Liang Chen, Chao Long, and *Yang Li*. "Editorial: New Solutions for Smart Grids with High Penetration Distributed Energy Resources Authors," /Frontiers in Energy Research/, 2022, 9:739253.
 . Zhaoyang Qu, Xiaoyong Bo, Tong Yu, Yaowei Liu, Yunchang Dong, Zhongfeng Kan, Lei Wang, and *Yang Li*, "Active and Passive Hybrid Detection Method for Power CPS False Data Injection Attacks with Improved AKF and GRU-CNN, " /IET Renewable Power Generation/, 2022, 16(7):1490-1508.
@@ -75,7 +80,6 @@
 . Yahui Li and *Yang Li**. "Security-constrained multi-objective optimal power flow for a hybrid AC\/VSC-MTDC system with Lasso-based contingency filtering," /IEEE Access/, 2020, 8, 6801-6811.
 . Yongchao Zeng, Peiwu Dong, Lingling Wang and *Yang Li*. "Analyzing the co-evolution of green technology diffusion and consumers' pro-environmental attitudes: An agent-based model," /Journal of Cleaner Production/, 2020, 256: 120384.
 . Meng Zhang and *Yang Li**. "Multi-objective optimal reactive power dispatch of power systems by combining classification based multi-objective evolutionary algorithm and integrated decision making," /IEEE Access/, 2020, 8: 38198-38209.
-. Xiangmin Lun, Shuyue Jia, Yimin Hou, Yan Shi, *Yang Li*, Hanrui Yang, Shu Zhang, and Jinglei Lv. "GCNs-net: a graph convolutional neural network approach for decoding time-resolved eeg motor imagery signals," arXiv preprint arXiv:2006.08924, 2020.
 . Yimin Hou, Shuyue Jia, Shu Zhang, Xiangmin Lun, Yan Shi, *Yang Li*, Hanrui Yang, Rui Zeng, and Jinglei Lv. "Deep feature mining via attention-based BiLSTM-GCN for human motor imagery recognition," arXiv preprint arXiv:2005.00777, 2020.
 . Shuyue Jia, Yimin Hou, Yan Shi, and *Yang Li*. "Attention-based graph ResNet for motor intent detection from raw EEG signals," arXiv preprint arXiv:2007.13484, 2020.
 
