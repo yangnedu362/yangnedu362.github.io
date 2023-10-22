@@ -33,13 +33,52 @@ Find me on: [https://scholar.google.com/citations?hl=zh-CN&user=zhx53aAAAAAJ Goo
 
 
 == News & Updates
-- 6/2023, our paper titled “Output voltage response improvement and ripple reduction control for input-parallel output-parallel high-power DC supply” was accepted by IEEE Transactions on Power Electronics.
-- 6/2023, our paper titled “Renewable energy absorption oriented many-objective probabilistic optimal power flow” was accepted by IEEE Transactions on Network Science and Engineering.
-- 6/2023, our paper titled “Collaborative optimization of multi-microgrids system with shared energy storage based on multi-agent stochastic game and reinforcement learning” was accepted by Energy.
-- 6/2023, our paper titled “Editorial: Rising stars in energy research: 2022” was accepted by Frontiers Energy Research.
-- 4/2023, our paper titled “Image encryption for offshore wind power based on 2D-LCLM and Zhou Yi Eight Trigrams” was accepted by International Journal of Bio-Inspired Computation.
-- 4/2023, Our paper titled “Multi-microgrid collaborative optimization scheduling using an improved multi-agent soft actor-critic algorithm” was accepted by Energies.
-- 3/2023, Dr. Li was named on the Highly Cited Chinese Researchers list of 2022 by Elsevier.
-- 2/2023, Our paper titled “Demand response method considering multiple types of flexible loads in industrial parks” was accepted by Engineering Applications of Artificial Intelligence.
-- 1/2023, Our paper titled “Data-Driven distributionally robust scheduling of community integrated energy systems with uncertain renewable generations considering integrated demand response” was accepted by Applied Energy. 
+- 10/2023
+. [https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6 Dr. Li ranked among the “World's Top 2% Scientists” (Stanford University) for both Single Year and Whole Career.] 
+. Paper accepted in /IEEE Transactions on Control Systems Technology/: "[https://arxiv.org/abs/2309.14608 A Demand-Supply Cooperative Responding Strategy in Power System with High Renewable Energy Penetration]"
+. Paper accepted in /Renewable and Sustainable Energy Reviews/: "[http://arxiv.org/abs/2310.11690 Deep learning based on Transformer architecture for power system short-term voltage stability assessment with class imbalance]"
+. Paper accepted in /IET Generation, Transmission & Distribution/: "A novel method of restoration path optimization for the AC-DC bulk power grid after a major blackout". (Coming soon on arXiv)
+. Patent granted by China National Intellectual Property Administration: "Optimal scheduling method of community-integrated energy systems considering integrated demand response under uncertain environments." 
 
+- 9/2023
+. "[https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=5165411 Detection of false data injection attacks in smart grid: A secure federated deep learning approach]" recognized as “Popular Documents” in /IEEE Transactions on Smart Grid/. 
+. "[https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=5165391 Coordinating flexible demand response and renewable uncertainties for scheduling of community integrated energy systems with an electric vehicle charging station: A bi-level approach]" recognized as “Popular Documents” in /IEEE Transactions on Sustainable Energy/. 
+. Paper accepted in /IEEE Transactions on Sustainable Energy/: "[https://ieeexplore.ieee.org/abstract/document/10269736 Collaborative response of data center coupled with hydrogen storage system for renewable energy absorption.]"
+. Paper accepted in /Electric Power Construction/: "[https://arxiv.org/abs/2310.03056 Low-carbon optimal dispatch of integrated energy system considering demand response under the tiered carbon trading mechanism.]"
+
+- 8/2023
+. "[https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=5165391&topArticlesDate=August%202023 Optimal scheduling of isolated microgrids using automated reinforcement learning-based multi-period forecasting]" recognized as “Popular Documents” in /IEEE Transactions on Sustainable Energy/. 
+. Paper accepted in /IEEE Transactions on Instrumentation & Measurement/: "[https://arxiv.org/abs/2308.03953 PMU measurements based short-term voltage stability assessment of power systems via deep transfer learning.]"   
+. Paper accepted in /Electric Power Systems Research/: "[https://arxiv.org/abs/2308.13211 Model predictive control strategy in waked wind farms for optimal fatigue loads.]" 
+. Editorial accepted in /Energy Reports/: "Guest Editorial: Special Issue on Innovative Methods and Techniques for Power and Energy Systems with High Penetration of Distributed Energy Resources." (Coming soon in publication)
+. Paper accepted in /Electric Power Construction/: "[https://arxiv.org/abs/2308.12554 Deep reinforcement learning-driven cross-community energy interaction optimal scheduling.]"
+
+- 7/2023
+. Paper accepted in /High Voltage Engineering/: "Dual-layer model for capacity optimization of hybrid energy storage system to reduce thermal power frequency modulation loss." (Coming soon in publication)
+. Paper accepted in /Electric Power Automation Equipment/: "[https://arxiv.org/abs/2309.07140 Short-term power load forecasting method based on CNN-SAEDN-Res.]"
+. Paper accepted in /Acta energiae solaris sinica/: "[https://arxiv.org/abs/2310.04972 Secondary frequency control of islanded microgrid considering wind and solar stochastics.]"
+
+- 6/2023
+. Paper accepted in /IEEE Transactions on Power Electronics/: "[https://arxiv.org/abs/2306.10198 Output voltage response improvement and ripple reduction control for input-parallel output-parallel high-power DC supply.]"
+. Paper accepted in /IEEE Transactions on Network Science and Engineering/: "[https://ieeexplore.ieee.org/abstract/document/10167776 Renewable energy absorption oriented many-objective probabilistic optimal power flow.]"
+. Paper accepted in /Energy/: "[https://arxiv.org/abs/2306.10754 Collaborative optimization of multi-microgrids system with shared energy storage based on multi-agent stochastic game and reinforcement learning.]"
+. Editorial accepted in /Frontiers Energy Research/: "[https://www.frontiersin.org/articles/10.3389/fenrg.2023.1226618/full Editorial: Rising stars in energy research: 2022.]"
+
+- 4/2023
+. [https://academic.oup.com/ce/article/7/2/492/7143607 Dr. Li recognized in the 2022 Clean Energy Reviewer Awards by Clean Energy journal]. 
+. Paper accepted in /International Journal of Bio-Inspired Computation/: "[https://arxiv.org/abs/2306.09245 Image encryption for offshore wind power based on 2D-LCLM and Zhou Yi Eight Trigrams.]"
+. Paper accepted in /Energies/: "[https://www.mdpi.com/1996-1073/16/7/3248 Multi-microgrid collaborative optimization scheduling using an improved multi-agent soft actor-critic algorithm.]"
+
+- 3/2023
+. Dr. Li named on the Highly Cited Chinese Researchers list of 2022 by Elsevier.
+. Paper published in .Applied Energy.: "[https://arxiv.org/abs/2212.13472 Optimal scheduling of island integrated energy systems considering multi-uncertainties and hydrothermal simultaneous transmission: A deep reinforcement learning approach.]"
+
+- 2/2023
+. Paper accepted in /Engineering Applications of Artificial Intelligence/: "[https://arxiv.org/abs/2205.11743 Demand response method considering multiple types of flexible loads in industrial parks.]"
+. Paper accepted in /Scientific Reports/: "[https://www.nature.com/articles/s41598-023-30121-0 A new method for axis adjustment of the hydro-generator unit using machine learning.]"
+
+- 1/2023
+. Paper accepted in /Applied Energy/: "[https://arxiv.org/abs/2301.08861 Data-Driven distributionally robust scheduling of community integrated energy systems with uncertain renewable generations considering integrated demand response.]"”
+. Paper published in /IEEE Transactions on Neural Networks and Learning Systems/: "[https://arxiv.org/abs/2301.00641 Federated multiagent deep reinforcement learning approach via physics-informed reward for multimicrogrid energy management.]"
+. Paper published in /IEEE Transactions on Intelligent Vehicles/: "[https://arxiv.org/abs/2204.07905 Probabilistic charging power forecast of EVCS: Reinforcement learning assisted deep learning approach.]"
+. Paper published in /Applied Energy/: "[https://arxiv.org/abs/2211.02674 Wind power forecasting considering data privacy protection: A federated deep reinforcement learning approach.]"
