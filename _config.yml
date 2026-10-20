@@ -1,0 +1,14 @@
+# Retain historical files in Git without publishing outdated profiles.
+exclude:
+  - README.md
+  - MENU
+  - jemdoc.py
+  - jemdoc.css
+  - index.jemdoc
+  - biography.jemdoc
+  - awards.jemdoc
+  - services.jemdoc
+  - group.jemdoc
+  - courses.jemdoc
+  - publicaitions.jemdoc
+  - photos/YangLi-CV.pdf
